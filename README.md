@@ -12,6 +12,16 @@ André Luiz Ferrari de Arruda.
 Um projeto mobile com Dart desenvolvido em Flutter para manter o controle de desenhos assistidos.
 Inspirado por MyAnimeList.
 
+##uso do SQFlite
+
+Este aplicativo utiliza o SQFlite, uma biblioteca de persistência de dados SQLite para Flutter. 
+
+1.**Configuração**
+Certifique-se de ter as dependências do SQFlite no seu arquivo 'pubspec.yaml':
+
+'''dependencies:
+  sqflite: ^2.3.1+'''
+
 
 
 ## Getting Started
