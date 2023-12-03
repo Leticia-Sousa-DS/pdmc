@@ -9,7 +9,7 @@ André Luiz Ferrari de Arruda.
 "Our Cartoon List" - Um aplicativo mobile.
 
 # our_cartoon_list
-Um projeto mobile desenvolvido em Flutter para manter o controle de desenhos assistidos.
+Um projeto mobile com Dart desenvolvido em Flutter para manter o controle de desenhos assistidos.
 Inspirado por MyAnimeList.
 
 
