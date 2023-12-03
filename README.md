@@ -1,4 +1,4 @@
-# pdm
+# PDMC
 Repositório para o projeto de Programação de Dispositivos Móveis (PMDC6).
 Grupo: 
 Leticia Sousa da Silva; 
@@ -12,7 +12,7 @@ André Luiz Ferrari de Arruda.
 Um projeto mobile com Dart desenvolvido em Flutter para manter o controle de desenhos assistidos.
 Inspirado por MyAnimeList.
 
-##uso do SQFlite
+# Uso do SQFlite
 
 Este aplicativo utiliza o SQFlite, uma biblioteca de persistência de dados SQLite para Flutter. 
 
