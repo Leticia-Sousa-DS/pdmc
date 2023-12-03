@@ -1,6 +1,18 @@
-# our_cartoon_list
+# pdmc
+Repositório para o projeto de Programação de Dispositivos Móveis (PMDC6).
+Grupo: 
+Leticia Sousa da Silva; 
+Henry Sant'Ana Lomba; 
+Gabriella Pereira Morais; 
+André Luiz Ferrari de Arruda.
 
-A new Flutter project.
+"Our Cartoon List" - Um aplicativo mobile.
+
+# our_cartoon_list
+Um projeto de avaliação de mídias.
+Inspirado por MyAnimeList e Letterboxd.
+
+
 
 ## Getting Started
 
