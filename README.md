@@ -1,4 +1,4 @@
-# pdmc
+# pdm
 Repositório para o projeto de Programação de Dispositivos Móveis (PMDC6).
 Grupo: 
 Leticia Sousa da Silva; 
