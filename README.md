@@ -19,8 +19,10 @@ Este aplicativo utiliza o SQFlite, uma biblioteca de persistência de dados SQLi
 1.**Configuração**
 Certifique-se de ter as dependências do SQFlite no seu arquivo 'pubspec.yaml':
 
-'''dependencies:
-  sqflite: ^2.3.1+'''
+```yaml
+   dependencies:
+  sqflite: ^2.3.1+
+```
 
 
 
